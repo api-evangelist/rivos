@@ -55,6 +55,8 @@ common:
     url: https://www.linkedin.com/company/rivos-inc
   - type: Crunchbase
     url: https://www.crunchbase.com/organization/rivos
+  - type: LLMsTxt
+    url: https://rivosinc.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
