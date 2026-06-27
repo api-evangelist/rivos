@@ -55,7 +55,7 @@ common:
     url: https://www.linkedin.com/company/rivos-inc
   - type: Crunchbase
     url: https://www.crunchbase.com/organization/rivos
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://rivosinc.com/llms.txt
 maintainers:
   - FN: Kin Lane
