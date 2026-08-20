@@ -36,6 +36,15 @@ tags:
   - Accelerator
   - Silicon
   - Stealth
+  - Data-Center
+  - Acquired
+tags_raw:
+  - AI Hardware
+  - RISC-V
+  - GPU
+  - Accelerator
+  - Silicon
+  - Stealth
   - Datacenter
   - Acquired
 url: https://raw.githubusercontent.com/api-evangelist/rivos/refs/heads/main/apis.yml
